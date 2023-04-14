@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd2d1a98-ac64-4874-a05d-79697455cc12" name="Changes" comment="adding new dependensies">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
-    </list>
+    <list default="true" id="dd2d1a98-ac64-4874-a05d-79697455cc12" name="Changes" comment="add checkout" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681475528512</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add checkout">
+      <created>1681475701615</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681475701615</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,6 +147,7 @@
     <MESSAGE value="delete workflow pakage" />
     <MESSAGE value="adding new jobs" />
     <MESSAGE value="adding new dependensies" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding new dependensies" />
+    <MESSAGE value="add checkout" />
+    <option name="LAST_COMMIT_MESSAGE" value="add checkout" />
   </component>
 </project>
