@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd2d1a98-ac64-4874-a05d-79697455cc12" name="Changes" comment="delete workflow pakage">
+    <list default="true" id="dd2d1a98-ac64-4874-a05d-79697455cc12" name="Changes" comment="adding new jobs">
       <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681474978091</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="adding new jobs">
+      <created>1681475229529</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681475229529</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,6 +133,7 @@
     <MESSAGE value="adding build and test new" />
     <MESSAGE value="adding jobs" />
     <MESSAGE value="delete workflow pakage" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete workflow pakage" />
+    <MESSAGE value="adding new jobs" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding new jobs" />
   </component>
 </project>
